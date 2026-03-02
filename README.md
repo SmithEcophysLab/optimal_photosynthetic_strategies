@@ -11,6 +11,9 @@ the repository called [optimal_vcmax_R](https://www.github.com/smithecophyslab/o
 
 The folder [data](data) contains data used in the original analysis.
 
+## Current Zenodo badge
+[![DOI](https://zenodo.org/badge/1171109219.svg)](https://doi.org/10.5281/zenodo.18842210)
+
 ## Contact
 Any questions or issues can be submitted via GitHub or directed to Nick Smith
 (nick.smith@ttu.edu).
