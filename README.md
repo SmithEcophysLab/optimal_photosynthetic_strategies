@@ -1,0 +1,2 @@
+# optimal_photosynthetic_strategies
+Repository for simulating optimal photosynthetic strategies
