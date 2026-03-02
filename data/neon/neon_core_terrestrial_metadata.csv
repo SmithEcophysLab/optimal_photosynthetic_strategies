@@ -1,0 +1,61 @@
+﻿domain_id,site_id,site_name,site_type,site_subtype,colocated_site,latitude,longitude,geodetic_datum,utm_northing,utm_easting,utm_zone,site_county,site_state,site_country,mean_evelation_m,minimum_elevation_m,maximum_elevation_m,terrestrial_sampling_boundary_size_km2,mean_annual_temperature_C,mean_annual_precipitation_mm,dominant_wind_direction,mean_canopy_height_m,dominant_nlcd_classes,dominant_plant_species,usgs_huc,watershed_name,watershed_size_km2,lake_depth_mean_m,lake_depth_max_m,tower_height_m,megapit_soil_family,soil_subgroup,avg_number_of_green_days,avg_green_increase_doy,avg_green_max_doy,avg_green_decrease_doy,avg_green_min_doy,phenocams,number_tower_levels
+D19,BONA,Caribou-Poker Creeks Research Watershed NEON,Core Terrestrial,,CARI,65.15401,-147.50258,WGS84,7225712.65,476436.7395,6N,Fairbanks North Star,AK,US,230,212,728,49.63,-3.0°C,262,W,8,Deciduous Forest|Evergreen Forest|Mixed Forest|Woody Wetlands,,,,,,,19,Coarse-silty - mixed - superactive - subgelic Typic Histoturbels,Typic Histoturbels,115,135,180,210,250,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D19.BONA.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D19.BONA.DP1.00042/",5
+D11,CLBJ,Lyndon B. Johnson National Grassland NEON,Core Terrestrial,,PRIN,33.40123,-97.57,WGS84,3696682.44,632982.2183,14N,Wise,TX,US,272,258,343,41.88,17.5°C,926,S,13,Deciduous Forest|Grassland/Herbaceous,,,,,,,22,Fine - mixed - active - thermic Udic Paleustalfs,Udic Paleustalfs,260,60,135,175,295|320,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D11.CLBJ.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D11.CLBJ.DP1.00042/",5
+D10,CPER,Central Plains Experimental Range NEON,Core Terrestrial,,,40.815536,-104.74559,WGS84,4518311.06,521454.7706,13N,Weld,CO,US,1654,1601,1686,65.4,8.6°C,344,NW,0.4,Grassland/Herbaceous,,,,,,,9,Fine-loamy - mixed - superactive - mesic Aridic Argiustolls,Aridic Argiustolls,260,90,165,210,350,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D10.CPER.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D10.CPER.DP1.00042/",4
+D04,GUAN,Guánica Forest NEON,Core Terrestrial,,,17.96955,-66.8687,WGS84,1988112.21,725706.1285,19N,Guánica Municipio,PR,US,125,8,209,34.92,23.0°C,840,S,10,Evergreen Forest,,,,,,,23,Coarse-loamy - carbonatic - isohyperthermic Typic Haplocalcids,Typic Haplocalcids,365,,,,,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D04.GUAN.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D04.GUAN.DP1.00042/",5
+D01,HARV,Harvard Forest & Quabbin Watershed NEON,Core Terrestrial,,HOPB,42.53691,-72.17265,WGS84,4713265.04,732183.1938,18N,Worcester,MA,US,348,160,415,48.09,7.4°C,1199,NW,26,Deciduous Forest|Evergreen Forest|Mixed Forest|Woody Wetlands,,,,,,,39,Coarse-loamy over sandy or sandy-skeletal - mixed - semiactive - frigid Oxyaquic Dystrudepts,Oxyaquic Dystrudepts,210,110,160,220,300,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D01.HARV.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D01.HARV.DP1.00042/",6
+D06,KONZ,Konza Prairie Biological Station NEON,Core Terrestrial,,,39.100774,-96.563075,WGS84,4330786.53,710729.798,14N,Riley,KS,US,414,333,443,34.87,12.4°C,870,SSW,1.5,Deciduous Forest|Grassland/Herbaceous,,,,,,,8,Fine - smectitic - mesic Pachic Udertic Argiustolls,Pachic Udertic Argiustolls,210,90,160,210,300,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D06.KONZ.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D06.KONZ.DP1.00042/",4
+D13,NIWO,Niwot Ridge NEON,Core Terrestrial,,COMO,40.05425,-105.58237,WGS84,4433940.92,450328.2848,13N,Boulder,CO,US,3490,2975,3583,13.4,0.3°C,1005,WNW,0.2,Evergreen Forest|Grassland/Herbaceous,,,,,,,8,Coarse-loamy - mixed - superactive Typic Haplocryolls,Typic Haplocryolls,130,140,190,220,270,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D13.NIWO.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D13.NIWO.DP1.00042/",4
+D15,ONAQ,Onaqui NEON,Core Terrestrial,,,40.177599,-112.45245,WGS84,4448479.61,376339.6859,12N,Tooele,UT,US,1662,1599,2061,67.77,9.0°C,288,SW,1.2,Evergreen Forest|Shrub/Scrub,,,,,,,8,Fine-loamy - mixed - superactive - mesic Xeric Haplocalcids,Xeric Haplocalcids,205,75,130,170,280,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D15.ONAQ.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D15.ONAQ.DP1.00042/",4
+D07,ORNL,Oak Ridge NEON,Core Terrestrial,,WALK,35.964128,-84.282588,WGS84,3983383.09,745052.4354,16N,Anderson,TN,US,344,230,356,57.37,14.4°C,1340,WNW,28,Deciduous Forest|Evergreen Forest|Pasture/Hay,,,,,,,39,Fine - kaolinitic - thermic Typic Paleudults,Typic Paleudults,225,90,140,210,315,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D07.ORNL.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D07.ORNL.DP1.00042/",6
+D03,OSBS,Ordway-Swisher Biological Station NEON,Core Terrestrial,,SUGG|BARC,29.689282,-81.993431,WGS84,3284767.49,403886.418,17N,Putnam,FL,US,46,22,49,36.81,20.9°C,1302,NE,23,Emergent Herbaceous Wetlands|Evergreen Forest|Woody Wetlands,,,,,,,35,Hyperthermic - uncoated Typic Quartzipsamments,Typic Quartzipsamments,245,70,150,190,315,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D03.OSBS.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D03.OSBS.DP1.00042/",6
+D20,PUUM,Pu'u Maka'ala Natural Area Reserve NEON,Core Terrestrial,,,19.55309,-155.31731,WGS84,2163673.63,256868.7191,5N,Hawaii,HI,US,1685,1034,1877,47.2,12.7°C,2657,,20,Evergreen Forest,,,,,,,32,Medial-skeletal - amorphic - isomesic Typic Hapludands,Typic Hapludands,365,,,,,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D20.PUUM.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D20.PUUM.DP1.00042/",6
+D02,SCBI,Smithsonian Conservation Biology Institute NEON,Core Terrestrial,,POSE,38.892925,-78.139494,WGS84,4308784.08,748090.6473,17N,Warren,VA,US,352,251,571,9.86,11.6°C,1126,SSE,35,Deciduous Forest|Evergreen Forest|Pasture/Hay,,,,,,,52,Loamy-skeletal - mixed - active - mesic Ultic Hapludalfs,Ultic Hapludalfs,245,85,150,220,320,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D02.SCBI.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D02.SCBI.DP1.00042/",6
+D17,SJER,San Joaquin Experimental Range NEON,Core Terrestrial,,,37.10878,-119.73228,WGS84,4110433.94,257213.9752,11N,Madera,CA,US,400,252,502,18.22,16.4°C,540,NW,21,Evergreen Forest|Grassland/Herbaceous|Shrub/Scrub,,,,,,,39,Mixed - thermic Psammentic Haploxerolls,Psammentic Haploxerolls,250,270,65,95,155,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D17.SJER.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D17.SJER.DP1.00042/",6
+D14,SRER,Santa Rita Experimental Range NEON,Core Terrestrial,,,31.91068,-110.83549,WGS84,3530547.12,515553.9031,12N,Pima,AZ,US,997,897,1461,214.9,19.3°C,346,ESE,2,Shrub/Scrub,,,,,,,8,Coarse-loamy - mixed - calcareous - thermic Typic Torrifluvents,Typic Torrifluvents,247,87,139,189,219|334,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D14.SRER.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D14.SRER.DP1.00042/",4
+D08,TALL,Talladega National Forest NEON,Core Terrestrial,,MAYF,32.95047,-87.393259,WGS84,3645863.57,463241.7192,16N,Bibb,AL,US,166,63,179,52.34,17.2°C,1383,N,25,Deciduous Forest|Evergreen Forest|Mixed Forest,,,,,,,35,Fine-loamy - siliceous - subactive - thermic Typic Hapludults,Typic Hapludults,255,75,135,195,330,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D08.TALL.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D08.TALL.DP1.00042/",5
+D18,TOOL,Toolik Field Station NEON,Core Terrestrial,,TOOK|OKSR,68.66109,-149.37047,WGS84,7618427.66,403757.147,6N,North Slope,AK,US,832,704,980,58.66,-9.0°C,316,S,0.3,Dwarf Scrub|Shrub/Scrub,,,,,,,9,Loamy-skeletal - mixed - superactive - acid - pergelic Typic Histoturbels,Typic Histoturbels,80,160,185,205,240,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D18.TOOL.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D18.TOOL.DP1.00042/",4
+D05,UNDE,University of Notre Dame Environmental Research Center NEON,Core Terrestrial,,,46.23391,-89.537254,WGS84,5123162.89,304366.9502,16N,Gogebic,MI,US,521,501,538,29.39,4.3°C,802,SSW,24,Deciduous Forest|Mixed Forest|Woody Wetlands,,,,,,,39,Coarse-loamy - mixed - superactive - frigid Argic Fragiaquods,Argic Fragiaquods,165,120,170,215,285,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D05.UNDE.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D05.UNDE.DP1.00042/",6
+D09,WOOD,Chase Lake National Wildlife Refuge NEON,Core Terrestrial,,PRPO,47.1282,-99.241334,WGS84,5219442.04,481694.7212,14N,Stutsman,ND,US,591,569,606,10.63,4.9°C,494,NW,1,Emergent Herbaceous Wetlands|Grassland/Herbaceous,,,,,,,8,Coarse-loamy over sandy or sandy-skeletal - mixed - superactive - frigid Typic Haplustolls,Typic Haplustolls,170,120,180,210,290,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D09.WOOD.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D09.WOOD.DP1.00042/",4
+D16,WREF,Wind River Experimental Forest NEON,Core Terrestrial,,,45.82049,-121.95191,WGS84,5074636.87,581417.8024,10N,Skamania,WA,US,351,300,1008,41.94,9.2°C,2225,NW,50,Evergreen Forest,,,,,,,74,Medial - amorphic - mesic Typic Hapludands,Typic Hapludands,175,115,165,210,290,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D16.WREF.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D16.WREF.DP1.00042/",8
+D12,YELL,Yellowstone National Park NEON,Core Terrestrial,,BLDE,44.95348,-110.53914,WGS84,4977885.94,536352.1992,12N,Park,WY,US,2133,1847,2244,72.5,3.4°C,493,SSE,14,Evergreen Forest|Grassland/Herbaceous|Shrub/Scrub,,,,,,,18,Fine-loamy - mixed - superactive - frigid Pachic Argiustolls,Pachic Argiustolls,144,125,169,193,269,"One phenocam is attached to the top and the bottom of the tower.
+https://phenocam.nau.edu/webcam/sites/NEON.D12.YELL.DP1.00033/
+https://phenocam.nau.edu/webcam/sites/NEON.D12.YELL.DP1.00042/",5
